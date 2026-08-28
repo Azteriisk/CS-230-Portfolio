@@ -1,3 +1,9 @@
+> **Course**: CS 230: Operating Platforms & Software Design  
+> **Description**: Software Design & Architecture Portfolio  
+> **Part of**: [CS SWE Degree Path](https://github.com/Azteriisk/CS-SWE-Degree-Path)
+
+---
+
 # Draw It or Lose It - Software Design Documentation
 #### SNHU CS-230 Simulated Client Project
 
